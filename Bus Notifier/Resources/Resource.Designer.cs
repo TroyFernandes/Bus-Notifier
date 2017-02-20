@@ -2075,100 +2075,97 @@ namespace Bus_Notifier
 			public const int abc_vector_test = 2130837586;
 			
 			// aapt resource value: 0x7f020053
-			public const int avd_hide_password = 2130837587;
-			
-			// aapt resource value: 0x7f02006d
-			public const int avd_hide_password_1 = 2130837613;
-			
-			// aapt resource value: 0x7f02006e
-			public const int avd_hide_password_2 = 2130837614;
-			
-			// aapt resource value: 0x7f02006f
-			public const int avd_hide_password_3 = 2130837615;
+			public const int appIcon = 2130837587;
 			
 			// aapt resource value: 0x7f020054
-			public const int avd_show_password = 2130837588;
-			
-			// aapt resource value: 0x7f020070
-			public const int avd_show_password_1 = 2130837616;
-			
-			// aapt resource value: 0x7f020071
-			public const int avd_show_password_2 = 2130837617;
-			
-			// aapt resource value: 0x7f020072
-			public const int avd_show_password_3 = 2130837618;
-			
-			// aapt resource value: 0x7f020055
-			public const int design_bottom_navigation_item_background = 2130837589;
-			
-			// aapt resource value: 0x7f020056
-			public const int design_fab_background = 2130837590;
-			
-			// aapt resource value: 0x7f020057
-			public const int design_ic_visibility = 2130837591;
-			
-			// aapt resource value: 0x7f020058
-			public const int design_ic_visibility_off = 2130837592;
-			
-			// aapt resource value: 0x7f020059
-			public const int design_password_eye = 2130837593;
-			
-			// aapt resource value: 0x7f02005a
-			public const int design_snackbar_background = 2130837594;
-			
-			// aapt resource value: 0x7f02005b
-			public const int ic_refresh_white_24dp = 2130837595;
-			
-			// aapt resource value: 0x7f02005c
-			public const int Icon = 2130837596;
-			
-			// aapt resource value: 0x7f02005d
-			public const int navigation_empty_icon = 2130837597;
-			
-			// aapt resource value: 0x7f02005e
-			public const int notification_action_background = 2130837598;
-			
-			// aapt resource value: 0x7f02005f
-			public const int notification_bg = 2130837599;
-			
-			// aapt resource value: 0x7f020060
-			public const int notification_bg_low = 2130837600;
-			
-			// aapt resource value: 0x7f020061
-			public const int notification_bg_low_normal = 2130837601;
-			
-			// aapt resource value: 0x7f020062
-			public const int notification_bg_low_pressed = 2130837602;
-			
-			// aapt resource value: 0x7f020063
-			public const int notification_bg_normal = 2130837603;
-			
-			// aapt resource value: 0x7f020064
-			public const int notification_bg_normal_pressed = 2130837604;
-			
-			// aapt resource value: 0x7f020065
-			public const int notification_icon_background = 2130837605;
-			
-			// aapt resource value: 0x7f02006b
-			public const int notification_template_icon_bg = 2130837611;
+			public const int avd_hide_password = 2130837588;
 			
 			// aapt resource value: 0x7f02006c
-			public const int notification_template_icon_low_bg = 2130837612;
+			public const int avd_hide_password_1 = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int avd_hide_password_2 = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int avd_hide_password_3 = 2130837614;
+			
+			// aapt resource value: 0x7f020055
+			public const int avd_show_password = 2130837589;
+			
+			// aapt resource value: 0x7f02006f
+			public const int avd_show_password_1 = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int avd_show_password_2 = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int avd_show_password_3 = 2130837617;
+			
+			// aapt resource value: 0x7f020056
+			public const int design_bottom_navigation_item_background = 2130837590;
+			
+			// aapt resource value: 0x7f020057
+			public const int design_fab_background = 2130837591;
+			
+			// aapt resource value: 0x7f020058
+			public const int design_ic_visibility = 2130837592;
+			
+			// aapt resource value: 0x7f020059
+			public const int design_ic_visibility_off = 2130837593;
+			
+			// aapt resource value: 0x7f02005a
+			public const int design_password_eye = 2130837594;
+			
+			// aapt resource value: 0x7f02005b
+			public const int design_snackbar_background = 2130837595;
+			
+			// aapt resource value: 0x7f02005c
+			public const int ic_refresh_white_24dp = 2130837596;
+			
+			// aapt resource value: 0x7f02005d
+			public const int Icon = 2130837597;
+			
+			// aapt resource value: 0x7f02005e
+			public const int navigation_empty_icon = 2130837598;
+			
+			// aapt resource value: 0x7f02005f
+			public const int notification_action_background = 2130837599;
+			
+			// aapt resource value: 0x7f020060
+			public const int notification_bg = 2130837600;
+			
+			// aapt resource value: 0x7f020061
+			public const int notification_bg_low = 2130837601;
+			
+			// aapt resource value: 0x7f020062
+			public const int notification_bg_low_normal = 2130837602;
+			
+			// aapt resource value: 0x7f020063
+			public const int notification_bg_low_pressed = 2130837603;
+			
+			// aapt resource value: 0x7f020064
+			public const int notification_bg_normal = 2130837604;
+			
+			// aapt resource value: 0x7f020065
+			public const int notification_bg_normal_pressed = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int notification_tile_bg = 2130837606;
-			
-			// aapt resource value: 0x7f020067
-			public const int notificationIcon = 2130837607;
-			
-			// aapt resource value: 0x7f020068
-			public const int notify_panel_notification_icon_bg = 2130837608;
-			
-			// aapt resource value: 0x7f020069
-			public const int ttcLarge = 2130837609;
+			public const int notification_icon_background = 2130837606;
 			
 			// aapt resource value: 0x7f02006a
-			public const int unnamed = 2130837610;
+			public const int notification_template_icon_bg = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int notification_template_icon_low_bg = 2130837611;
+			
+			// aapt resource value: 0x7f020067
+			public const int notification_tile_bg = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int notificationIcon = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int notify_panel_notification_icon_bg = 2130837609;
 			
 			static Drawable()
 			{
@@ -2183,8 +2180,8 @@ namespace Bus_Notifier
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0a0086
-			public const int action0 = 2131361926;
+			// aapt resource value: 0x7f0a0084
+			public const int action0 = 2131361924;
 			
 			// aapt resource value: 0x7f0a0064
 			public const int action_bar = 2131361892;
@@ -2207,17 +2204,17 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0041
 			public const int action_bar_title = 2131361857;
 			
-			// aapt resource value: 0x7f0a0083
-			public const int action_container = 2131361923;
+			// aapt resource value: 0x7f0a0081
+			public const int action_container = 2131361921;
 			
 			// aapt resource value: 0x7f0a0065
 			public const int action_context_bar = 2131361893;
 			
-			// aapt resource value: 0x7f0a008a
-			public const int action_divider = 2131361930;
+			// aapt resource value: 0x7f0a0088
+			public const int action_divider = 2131361928;
 			
-			// aapt resource value: 0x7f0a0084
-			public const int action_image = 2131361924;
+			// aapt resource value: 0x7f0a0082
+			public const int action_image = 2131361922;
 			
 			// aapt resource value: 0x7f0a0008
 			public const int action_menu_divider = 2131361800;
@@ -2234,11 +2231,11 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0043
 			public const int action_mode_close_button = 2131361859;
 			
-			// aapt resource value: 0x7f0a0085
-			public const int action_text = 2131361925;
+			// aapt resource value: 0x7f0a0083
+			public const int action_text = 2131361923;
 			
-			// aapt resource value: 0x7f0a0093
-			public const int actions = 2131361939;
+			// aapt resource value: 0x7f0a0091
+			public const int actions = 2131361937;
 			
 			// aapt resource value: 0x7f0a0044
 			public const int activity_chooser_view_content = 2131361860;
@@ -2267,8 +2264,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a004b
 			public const int buttonPanel = 2131361867;
 			
-			// aapt resource value: 0x7f0a0087
-			public const int cancel_action = 2131361927;
+			// aapt resource value: 0x7f0a0085
+			public const int cancel_action = 2131361925;
 			
 			// aapt resource value: 0x7f0a0016
 			public const int center = 2131361814;
@@ -2282,8 +2279,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a005b
 			public const int checkbox = 2131361883;
 			
-			// aapt resource value: 0x7f0a008f
-			public const int chronometer = 2131361935;
+			// aapt resource value: 0x7f0a008d
+			public const int chronometer = 2131361933;
 			
 			// aapt resource value: 0x7f0a0022
 			public const int clip_horizontal = 2131361826;
@@ -2333,8 +2330,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0019
 			public const int end = 2131361817;
 			
-			// aapt resource value: 0x7f0a0099
-			public const int end_padder = 2131361945;
+			// aapt resource value: 0x7f0a0097
+			public const int end_padder = 2131361943;
 			
 			// aapt resource value: 0x7f0a000f
 			public const int enterAlways = 2131361807;
@@ -2372,8 +2369,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0049
 			public const int icon = 2131361865;
 			
-			// aapt resource value: 0x7f0a0094
-			public const int icon_group = 2131361940;
+			// aapt resource value: 0x7f0a0092
+			public const int icon_group = 2131361938;
 			
 			// aapt resource value: 0x7f0a003e
 			public const int ifRoom = 2131361854;
@@ -2381,8 +2378,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0046
 			public const int image = 2131361862;
 			
-			// aapt resource value: 0x7f0a0090
-			public const int info = 2131361936;
+			// aapt resource value: 0x7f0a008e
+			public const int info = 2131361934;
 			
 			// aapt resource value: 0x7f0a0003
 			public const int item_touch_helper_previous_elevation = 2131361795;
@@ -2393,11 +2390,11 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a001b
 			public const int left = 2131361819;
 			
-			// aapt resource value: 0x7f0a0095
-			public const int line1 = 2131361941;
+			// aapt resource value: 0x7f0a0093
+			public const int line1 = 2131361939;
 			
-			// aapt resource value: 0x7f0a0097
-			public const int line3 = 2131361943;
+			// aapt resource value: 0x7f0a0095
+			public const int line3 = 2131361941;
 			
 			// aapt resource value: 0x7f0a0030
 			public const int listMode = 2131361840;
@@ -2405,14 +2402,14 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0048
 			public const int list_item = 2131361864;
 			
-			// aapt resource value: 0x7f0a009b
-			public const int masked = 2131361947;
+			// aapt resource value: 0x7f0a0099
+			public const int masked = 2131361945;
 			
-			// aapt resource value: 0x7f0a0089
-			public const int media_actions = 2131361929;
+			// aapt resource value: 0x7f0a0087
+			public const int media_actions = 2131361927;
 			
-			// aapt resource value: 0x7f0a009c
-			public const int menu_refresh = 2131361948;
+			// aapt resource value: 0x7f0a009a
+			public const int menu_refresh = 2131361946;
 			
 			// aapt resource value: 0x7f0a003b
 			public const int middle = 2131361851;
@@ -2435,14 +2432,14 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0028
 			public const int normal = 2131361832;
 			
-			// aapt resource value: 0x7f0a0092
-			public const int notification_background = 2131361938;
+			// aapt resource value: 0x7f0a0090
+			public const int notification_background = 2131361936;
 			
-			// aapt resource value: 0x7f0a008c
-			public const int notification_main_column = 2131361932;
+			// aapt resource value: 0x7f0a008a
+			public const int notification_main_column = 2131361930;
 			
-			// aapt resource value: 0x7f0a008b
-			public const int notification_main_column_container = 2131361931;
+			// aapt resource value: 0x7f0a0089
+			public const int notification_main_column_container = 2131361929;
 			
 			// aapt resource value: 0x7f0a0020
 			public const int parallax = 2131361824;
@@ -2465,11 +2462,11 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a001c
 			public const int right = 2131361820;
 			
-			// aapt resource value: 0x7f0a0091
-			public const int right_icon = 2131361937;
+			// aapt resource value: 0x7f0a008f
+			public const int right_icon = 2131361935;
 			
-			// aapt resource value: 0x7f0a008d
-			public const int right_side = 2131361933;
+			// aapt resource value: 0x7f0a008b
+			public const int right_side = 2131361931;
 			
 			// aapt resource value: 0x7f0a002c
 			public const int screen = 2131361836;
@@ -2564,8 +2561,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a001d
 			public const int start = 2131361821;
 			
-			// aapt resource value: 0x7f0a0088
-			public const int status_bar_latest_event_content = 2131361928;
+			// aapt resource value: 0x7f0a0086
+			public const int status_bar_latest_event_content = 2131361926;
 			
 			// aapt resource value: 0x7f0a005e
 			public const int submenuarrow = 2131361886;
@@ -2576,11 +2573,11 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0031
 			public const int tabMode = 2131361841;
 			
-			// aapt resource value: 0x7f0a0098
-			public const int text = 2131361944;
-			
 			// aapt resource value: 0x7f0a0096
-			public const int text2 = 2131361942;
+			public const int text = 2131361942;
+			
+			// aapt resource value: 0x7f0a0094
+			public const int text2 = 2131361940;
 			
 			// aapt resource value: 0x7f0a0052
 			public const int textSpacerNoButtons = 2131361874;
@@ -2591,12 +2588,6 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0080
 			public const int textView1 = 2131361920;
 			
-			// aapt resource value: 0x7f0a0081
-			public const int textView2 = 2131361921;
-			
-			// aapt resource value: 0x7f0a0082
-			public const int textView3 = 2131361922;
-			
 			// aapt resource value: 0x7f0a007e
 			public const int text_input_password_toggle = 2131361918;
 			
@@ -2606,8 +2597,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0001
 			public const int textinput_error = 2131361793;
 			
-			// aapt resource value: 0x7f0a008e
-			public const int time = 2131361934;
+			// aapt resource value: 0x7f0a008c
+			public const int time = 2131361932;
 			
 			// aapt resource value: 0x7f0a004a
 			public const int title = 2131361866;
@@ -2645,8 +2636,8 @@ namespace Bus_Notifier
 			// aapt resource value: 0x7f0a0002
 			public const int view_offset_helper = 2131361794;
 			
-			// aapt resource value: 0x7f0a009a
-			public const int visible = 2131361946;
+			// aapt resource value: 0x7f0a0098
+			public const int visible = 2131361944;
 			
 			// aapt resource value: 0x7f0a0040
 			public const int withText = 2131361856;
@@ -2922,11 +2913,8 @@ namespace Bus_Notifier
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f0b002a
-			public const int ApplicationName = 2131427370;
-			
 			// aapt resource value: 0x7f0b0029
-			public const int Hello = 2131427369;
+			public const int ApplicationName = 2131427369;
 			
 			// aapt resource value: 0x7f0b0008
 			public const int abc_action_bar_home_description = 2131427336;
