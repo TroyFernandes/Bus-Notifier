@@ -122,6 +122,7 @@ namespace Bus_Notifier
             var busTimes = n.DownloadString(url);
             var busData = Convert.ToString(busTimes);
             dynamic data = JObject.Parse(busData);
+            string response;
             // dont change first index "data.stops[0]"
             // routes can change max of 2 [0-1]
             // stops can change max of 3 [0-2]
@@ -134,9 +135,18 @@ namespace Bus_Notifier
             }
             else
             {
-                return data.stops[0].name.ToString() + ";" +
-                data.stops[1].routes[routesIndex].stop_times[stopTimesIndex].departure_time.ToString() + ";" +
-                data.stops[1].routes[routesIndex].stop_times[stopTimesIndex].shape.ToString();
+                try
+                {
+                    response =  data.stops[0].name.ToString() + ";" +
+                                data.stops[1].routes[routesIndex].stop_times[stopTimesIndex].departure_time.ToString() + ";" +
+                                data.stops[1].routes[routesIndex].stop_times[stopTimesIndex].shape.ToString();
+                }
+                catch (ArgumentOutOfRangeException e)
+                {
+                    response =  data.stops[0].name.ToString() + ";NA;" +
+                                data.stops[1].routes[2].stop_times[0].shape.ToString();
+                }
+                return response;
             }
             
         }
