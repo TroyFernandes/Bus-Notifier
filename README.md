@@ -1,5 +1,5 @@
 # Bus-Notifier
-Android App Written in C# that Sends Bundled Notifications on the Next Available Bus Edit
+Android App Written in C# that Sends Bundled Notifications on the Next Available Bus
 
 First Android app made using Xamarin tools and it's most likely the last.
 
